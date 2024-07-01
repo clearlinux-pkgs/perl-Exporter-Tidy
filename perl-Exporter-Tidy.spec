@@ -4,7 +4,7 @@
 #
 Name     : perl-Exporter-Tidy
 Version  : 0.08
-Release  : 16
+Release  : 17
 URL      : https://cpan.metacpan.org/authors/id/J/JU/JUERD/Exporter-Tidy-0.08.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/J/JU/JUERD/Exporter-Tidy-0.08.tar.gz
 Summary  : 'Another way of exporting symbols'
